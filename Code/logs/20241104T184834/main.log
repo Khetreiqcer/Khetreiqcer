@@ -1,9 +1,0 @@
-2024-11-04 18:48:34.367 [info] update#setState idle
-2024-11-04 18:48:38.669 [info] update#setState checking for updates
-2024-11-04 18:48:39.179 [info] update#setState idle
-2024-11-04 18:49:04.368 [info] update#setState checking for updates
-2024-11-04 18:49:04.642 [info] update#setState idle
-2024-11-04 18:49:41.490 [info] Extension host with pid 81432 exited with code: 0, signal: unknown.
-2024-11-04 18:54:36.644 [info] Extension host with pid 81691 exited with code: 0, signal: unknown.
-2024-11-04 18:54:37.645 [error] Extension host with pid 81691 still exists, forcefully killing it...
-2024-11-04 19:11:36.285 [info] Extension host with pid 82224 exited with code: 0, signal: unknown.
