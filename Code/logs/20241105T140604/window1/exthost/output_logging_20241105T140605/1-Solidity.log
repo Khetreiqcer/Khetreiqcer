@@ -1,0 +1,33 @@
+[Info  - 2:06:05 PM] Solidity by Nomic Foundation Starting ...
+[Info  - 2:06:05 PM] env: production
+[Info  - 2:06:05 PM] Client starting
+[Info  - 2:06:06 PM] Language server starting
+[Info  - 2:06:06 PM]   Release: hardhat-solidity@0.8.6
+[Info  - 2:06:06 PM]   Environment: production
+[Info  - 2:06:06 PM]   Telemetry Enabled: false
+[Info  - 2:06:06 PM]   Telemetry Tracking Id: 9359307963...
+[Info  - 2:06:06 PM]   Workspace Folders:
+[Info  - 2:06:06 PM]     foundry-project (file:///home/jvp/Desktop/projects/foundry-project)
+[Info  - 2:06:06 PM] Fetching latest solidity versions
+[Info  - 2:06:06 PM] Language server ready
+[Info  - 2:06:07 PM] [indexing] Found projects:
+[Info  - 2:06:07 PM] [indexing] -  Type: Hardhat
+[Info  - 2:06:07 PM] [indexing]    Base path: /home/jvp/Desktop/projects/foundry-project/lib/chainlink-brownie-contracts/contracts
+[Info  - 2:06:07 PM] [indexing]    Config file: /home/jvp/Desktop/projects/foundry-project/lib/chainlink-brownie-contracts/contracts/hardhat.config.ts
+[Info  - 2:06:07 PM] [indexing] -  Type: Foundry
+[Info  - 2:06:07 PM] [indexing]    Base path: /home/jvp/Desktop/projects/foundry-project
+[Info  - 2:06:07 PM] [indexing]    Config file: /home/jvp/Desktop/projects/foundry-project/foundry.toml
+[Info  - 2:06:07 PM] [indexing] Initializing /home/jvp/Desktop/projects/foundry-project/lib/chainlink-brownie-contracts/contracts/hardhat.config.ts
+[Info  - 2:06:07 PM] [contracts] Error loading HRE: Error: Cannot find module 'hardhat'
+Require stack:
+- /home/jvp/.vscode/extensions/nomicfoundation.hardhat-solidity-0.8.6/server/out/worker/WorkerProcess.js
+[Info  - 2:06:07 PM] [contracts] Child process exited: 1
+[Info  - 2:06:07 PM] [indexing] Done /home/jvp/Desktop/projects/foundry-project/lib/chainlink-brownie-contracts/contracts/hardhat.config.ts
+[Info  - 2:06:07 PM] [indexing] Initializing /home/jvp/Desktop/projects/foundry-project/foundry.toml
+[Info  - 2:06:07 PM] [indexing] Done /home/jvp/Desktop/projects/foundry-project/foundry.toml
+[Info  - 2:06:07 PM] [indexing] Scanning workspace folders for sol files
+[Info  - 2:06:07 PM] [indexing] Scan complete, 1269 sol files found
+[Info  - 2:06:07 PM] [indexing] Analyzing 2 solidity files
+[Info  - 2:06:10 PM] Telemetry disabled
+[Info  - 2:10:08 PM] Telemetry disabled
+[Info  - 2:27:59 PM] Telemetry disabled

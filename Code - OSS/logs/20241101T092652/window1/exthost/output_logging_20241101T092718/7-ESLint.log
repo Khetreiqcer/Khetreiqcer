@@ -1,0 +1,21 @@
+[Info  - 9:28:04 AM] ESLint server is starting.
+[Info  - 9:28:04 AM] ESLint server running in node v20.18.0
+[Info  - 9:28:04 AM] ESLint server is running.
+[Warn  - 1:44:30 PM] Detected package manager() differs from the one in the deprecated packageManager setting(npm). We will honor this setting until it is removed.
+[object Object]
+[Info  - 1:44:30 PM] 
+Failed to load the ESLint library for the document /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/foundry.toml
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder foundry-simple-storage-f23
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for the workspace folder foundry-simple-storage-f23 by executing the 'Disable ESLint' command.
+[Warn  - 1:44:40 PM] Detected package manager() differs from the one in the deprecated packageManager setting(npm). We will honor this setting until it is removed.
+[object Object]
+[Info  - 1:44:40 PM] 
+Failed to load the ESLint library for the document /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/foundry.toml
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder foundry-simple-storage-f23
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+Alternatively you can disable ESLint for the workspace folder foundry-simple-storage-f23 by executing the 'Disable ESLint' command.

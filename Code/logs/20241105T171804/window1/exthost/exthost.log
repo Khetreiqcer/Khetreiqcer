@@ -1,0 +1,216 @@
+2024-11-05 17:18:05.954 [info] Extension host with pid 42577 started
+2024-11-05 17:18:05.954 [info] Skipping acquiring lock for /home/jvp/.config/Code/User/workspaceStorage/4a9616f04b3854ba5620052a632278c7.
+2024-11-05 17:18:06.164 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-05 17:18:06.182 [info] ExtensionService#_doActivateExtension NomicFoundation.hardhat-solidity, startup: false, activationEvent: 'onLanguage:solidity'
+2024-11-05 17:18:06.436 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-05 17:18:06.453 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-05 17:18:06.509 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-05 17:18:06.571 [error] Error: [ExtensionListenerError] Extension 'NomicFoundation.hardhat-solidity' FAILED to handle event: Error: Language client is not ready yet
+	at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35379)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at BF.$acceptConfigurationChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:3150)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:2700
+2024-11-05 17:18:06.587 [info] Eager extensions activated
+2024-11-05 17:18:06.637 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-05 17:18:06.638 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-05 17:18:06.656 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2024-11-05 17:18:07.014 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-11-05 17:18:07.041 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-11-05 17:18:07.099 [info] ExtensionService#_doActivateExtension miguelsolorio.symbols, startup: false, activationEvent: 'onStartupFinished'
+2024-11-05 17:18:07.158 [error] Error: [ExtensionListenerError] Extension 'NomicFoundation.hardhat-solidity' FAILED to handle event: Error: Language client is not ready yet
+	at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35379)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at BF.$acceptConfigurationChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:3150)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:2700
+2024-11-05 17:18:07.164 [error] Error: [ExtensionListenerError] Extension 'NomicFoundation.hardhat-solidity' FAILED to handle event: Error: Language client is not ready yet
+	at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35379)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at BF.$acceptConfigurationChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:3150)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:2700
+2024-11-05 17:18:07.169 [error] Error: [ExtensionListenerError] Extension 'NomicFoundation.hardhat-solidity' FAILED to handle event: Error: Language client is not ready yet
+	at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35379)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at BF.$acceptConfigurationChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:3150)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:2700
+2024-11-05 17:18:07.415 [error] Error: [ExtensionListenerError] Extension 'NomicFoundation.hardhat-solidity' FAILED to handle event: Error: Language client is not ready yet
+	at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35379)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at BF.$acceptConfigurationChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:3150)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:2700
+2024-11-05 17:18:07.956 [error] Error: [ExtensionListenerError] Extension 'NomicFoundation.hardhat-solidity' FAILED to handle event: Error: Language client is not ready yet
+	at mh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:35379)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at BF.$acceptConfigurationChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:3150)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:2700
+2024-11-05 17:18:08.118 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-11-05 17:41:06.743 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-05 17:41:11.837 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-05 17:41:11.845 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-05 17:41:11.855 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-11-05 18:13:36.163 [error] Error: Illegal value for `line`
+	at uM.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:1005)
+	at Object.lineAt (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:72)
+	at e.getCommandEditHints (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1585065)
+	at e.getNonCachedDocumentResults (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1586744)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1587809)
+	at d (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1573032)
+	at Generator.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1574374)
+	at Generator.next (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1573461)
+	at a (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1579588)
+	at s (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1579791)
+	at /home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1579850
+	at new Promise (<anonymous>)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1579731)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1588383)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1530960)
+	at d (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1518292)
+	at Generator.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1519634)
+	at Generator.next (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1518721)
+	at s (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525208)
+	at a (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525411)
+	at /home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525470
+	at new Promise (<anonymous>)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525351)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1531583)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1530152)
+	at d (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1518292)
+	at Generator.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1519634)
+	at Generator.next (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1518721)
+	at s (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525208)
+	at a (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525411)
+	at /home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525470
+	at new Promise (<anonymous>)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525351)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1530395)
+	at Immediate.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1527813)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-11-05 18:23:32.628 [error] Error: Illegal value for `line`
+	at uM.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:1005)
+	at Object.lineAt (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:72)
+	at e.getCommandEditHints (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1585065)
+	at e.getNonCachedDocumentResults (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1586744)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1587809)
+	at d (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1573032)
+	at Generator.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1574374)
+	at Generator.next (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1573461)
+	at a (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1579588)
+	at s (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1579791)
+	at /home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1579850
+	at new Promise (<anonymous>)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1579731)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1588383)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1530960)
+	at d (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1518292)
+	at Generator.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1519634)
+	at Generator.next (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1518721)
+	at s (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525208)
+	at a (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525411)
+	at /home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525470
+	at new Promise (<anonymous>)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525351)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1531583)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1530152)
+	at d (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1518292)
+	at Generator.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1519634)
+	at Generator.next (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1518721)
+	at s (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525208)
+	at a (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525411)
+	at /home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525470
+	at new Promise (<anonymous>)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1525351)
+	at e.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1530395)
+	at Immediate.<anonymous> (/home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/extension.js:2:1527813)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-11-05 19:52:38.163 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-05 20:03:39.946 [info] Extension host terminating: renderer closed the MessagePort
+2024-11-05 20:03:39.976 [error] Canceled: Canceled
+	at new tT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at mh.O [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:961845)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:983333)
+	at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:488:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-05 20:03:39.976 [error] Canceled: Canceled
+	at new tT (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at set hasGitHubRepositories (/opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:328633)
+	at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:329592
+	at mh.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1073936)
+	at D.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at D.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at D.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:983333)
+	at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:488:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-11-05 20:03:39.978 [info] Extension host with pid 42577 exiting with code 0

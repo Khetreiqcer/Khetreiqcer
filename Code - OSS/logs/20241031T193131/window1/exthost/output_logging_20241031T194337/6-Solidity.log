@@ -1,0 +1,48 @@
+[Info  - 7:43:55 PM] Solidity by Nomic Foundation Starting ...
+[Info  - 7:43:55 PM] env: production
+[Info  - 7:43:55 PM] Client starting
+[Info  - 7:43:56 PM] Language server starting
+[Info  - 7:43:56 PM]   Release: hardhat-solidity@0.8.6
+[Info  - 7:43:56 PM]   Environment: production
+[Info  - 7:43:56 PM]   Telemetry Enabled: false
+[Info  - 7:43:56 PM]   Telemetry Tracking Id: someValue....
+[Info  - 7:43:56 PM]   Workspace Folders:
+[Info  - 7:43:56 PM]     foundry-simple-storage-f23 (file:///home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23)
+[Info  - 7:43:56 PM] Fetching latest solidity versions
+[Info  - 7:43:56 PM] Language server ready
+[Info  - 7:43:56 PM] [indexing] Found projects:
+[Info  - 7:43:56 PM] [indexing] -  Type: Foundry
+[Info  - 7:43:56 PM] [indexing]    Base path: /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23
+[Info  - 7:43:56 PM] [indexing]    Config file: /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/foundry.toml
+[Info  - 7:43:56 PM] [indexing] Initializing /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/foundry.toml
+[Info  - 7:43:56 PM] [indexing] Done /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/foundry.toml
+[Info  - 7:43:56 PM] [indexing] Scanning workspace folders for sol files
+[Info  - 7:43:56 PM] [indexing] Scan complete, 43 sol files found
+[Info  - 7:43:56 PM] [indexing] Analyzing 0 solidity files
+[Info  - 7:43:59 PM] Telemetry disabled
+Downloading compiler 0.8.28
+Downloading compiler 0.8.19
+[Info  - 7:47:23 PM] Telemetry disabled
+[Info  - 7:47:42 PM] Telemetry disabled
+[Info  - 7:48:49 PM] Telemetry disabled
+[Info  - 7:49:31 PM] Telemetry disabled
+[Info  - 9:53:22 PM] Error formatting document file:///home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/script/DeploySimpleStorage.s.sol with prettier: Error: Comment "SPDX" was not printed. Please report this error!
+[Info  - 9:53:46 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '0.'.
+[Info  - 9:53:47 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '0.'.
+[Info  - 9:53:47 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '0.'.
+[Info  - 9:53:47 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '0.'.
+[Info  - 9:53:50 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '0.8.'.
+[Info  - 9:53:50 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '0.8.'.
+[Info  - 9:53:50 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '0.8.'.
+[Info  - 9:53:56 PM] Error formatting document file:///home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/script/DeploySimpleStorage.s.sol with prettier: Error: mismatched input '<EOF>' expecting {'from', 'error', 'address', 'calldata', 'revert', 'callback', 'leave', 'payable', 'constructor', 'receive', Identifier} (6:0)
+    at Object.parse4 (/home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:2049:1808)
+    at Object.parse4 [as parse] (/home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:2049:3162)
+    at Object.parse$d [as parse] (/home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:1682:1897)
+    at coreFormat (/home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:1683:26195)
+    at formatWithCursor$1 (/home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:1687:1082)
+    at /home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:1795:12877
+    at Object.format (/home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:1795:13154)
+    at PrettyPrinter.format (/home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:2975:1865)
+    at prettierFormat (/home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:2979:5851)
+    at /home/jvp/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.6-universal/server/out/index.js:2979:7295
+[Error - 9:55:45 PM] Cannot read properties of undefined (reading 'split')

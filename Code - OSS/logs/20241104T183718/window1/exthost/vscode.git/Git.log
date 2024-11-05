@@ -1,0 +1,83 @@
+2024-11-04 18:37:19.657 [info] [main] Log level: Info
+2024-11-04 18:37:19.657 [info] [main] Validating found git in: "git"
+2024-11-04 18:37:19.657 [info] [main] Using git "2.47.0" from "git"
+2024-11-04 18:37:19.657 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-04 18:37:19.657 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-04 18:37:19.658 [info] > git rev-parse --git-dir --git-common-dir [24ms]
+2024-11-04 18:37:19.673 [info] [Model][openRepository] Opened repository: /home/jvp/Desktop/projects/foundry-project
+2024-11-04 18:37:19.686 [info] > git fetch [13ms]
+2024-11-04 18:37:19.696 [info] > git config --get commit.template [10ms]
+2024-11-04 18:37:19.704 [info] > git config --get commit.template [8ms]
+2024-11-04 18:37:19.714 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-04 18:37:19.714 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-04 18:37:19.748 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-04 18:37:19.758 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [45ms]
+2024-11-04 18:37:19.799 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+2024-11-04 18:37:19.806 [info] > git rev-parse --show-toplevel [50ms]
+2024-11-04 18:37:19.807 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [58ms]
+2024-11-04 18:37:19.847 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2024-11-04 18:37:19.854 [info] > git config --local branch.master.vscode-merge-base [48ms]
+2024-11-04 18:37:19.854 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-04 18:37:19.861 [info] > git config --get commit.template [62ms]
+2024-11-04 18:37:20.402 [info] > git reflog master --grep-reflog=branch: Created from *. [541ms]
+2024-11-04 18:37:20.409 [info] > git config --local branch.master.vscode-merge-base [555ms]
+2024-11-04 18:37:20.409 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-04 18:37:20.417 [info] > git rev-parse --show-toplevel [583ms]
+2024-11-04 18:37:20.494 [info] [Git][getRemotes] No remotes found in the git config file
+2024-11-04 18:37:20.504 [info] > git check-ignore -v -z --stdin [79ms]
+2024-11-04 18:37:20.505 [info] > git reflog master --grep-reflog=branch: Created from *. [88ms]
+2024-11-04 18:37:20.512 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [103ms]
+2024-11-04 18:37:20.512 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-04 18:37:20.512 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-04 18:37:20.525 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [13ms]
+2024-11-04 18:37:20.525 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-04 18:37:20.525 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-04 18:37:20.526 [info] > git rev-parse --show-toplevel [25ms]
+2024-11-04 18:37:20.526 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+2024-11-04 18:37:20.548 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-11-04 18:37:20.549 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-04 18:37:20.557 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-04 18:37:20.566 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-04 18:37:20.566 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-04 18:37:20.609 [info] > git status -z -uall [76ms]
+2024-11-04 18:37:21.122 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-04 18:37:21.131 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-11-04 18:37:21.144 [info] [Model][openRepository] Opened repository: /home/jvp/Desktop/projects/foundry-project/lib/forge-std
+2024-11-04 18:37:21.164 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-04 18:37:21.165 [info] > git config --get commit.template [12ms]
+2024-11-04 18:37:21.184 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2024-11-04 18:37:21.196 [info] [Model][openRepository] Opened repository: /home/jvp/Desktop/projects/foundry-project/lib/chainlink-brownie-contracts
+2024-11-04 18:37:21.207 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [23ms]
+2024-11-04 18:37:21.225 [info] > git status -z -uall [10ms]
+2024-11-04 18:37:21.225 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-04 18:37:21.229 [info] > git config --get commit.template [22ms]
+2024-11-04 18:37:21.248 [info] > git config --get commit.template [10ms]
+2024-11-04 18:37:21.288 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [40ms]
+2024-11-04 18:37:21.314 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+2024-11-04 18:37:21.315 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [26ms]
+2024-11-04 18:37:21.334 [info] > git status -z -uall [11ms]
+2024-11-04 18:37:21.336 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2024-11-04 18:37:21.369 [info] > git status -z -uall [72ms]
+2024-11-04 18:37:21.393 [info] > git config --get commit.template [13ms]
+2024-11-04 18:37:21.396 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-11-04 18:37:21.416 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-04 18:37:21.469 [info] > git status -z -uall [65ms]
+2024-11-04 18:37:21.628 [info] > git fetch [432ms]
+2024-11-04 18:37:21.646 [info] > git config --get commit.template [10ms]
+2024-11-04 18:37:21.647 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2024-11-04 18:37:21.665 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-04 18:37:21.721 [info] > git status -z -uall [66ms]
+2024-11-04 18:37:21.885 [info] > git fetch [741ms]
+2024-11-04 18:37:21.903 [info] > git config --get commit.template [8ms]
+2024-11-04 18:37:21.904 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2024-11-04 18:37:21.921 [info] > git status -z -uall [8ms]
+2024-11-04 18:37:21.923 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-04 18:37:22.781 [info] > git config --get commit.template [13ms]
+2024-11-04 18:37:22.782 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2024-11-04 18:37:22.807 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-04 18:37:22.857 [info] > git status -z -uall [64ms]
+2024-11-04 18:37:23.036 [info] > git config --get commit.template [10ms]
+2024-11-04 18:37:23.037 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2024-11-04 18:37:23.060 [info] > git status -z -uall [12ms]
+2024-11-04 18:37:23.062 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-04 18:38:01.114 [info] > git check-ignore -v -z --stdin [1ms]

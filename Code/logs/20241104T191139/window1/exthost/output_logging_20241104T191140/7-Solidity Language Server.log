@@ -1,0 +1,14 @@
+19:13:42.38 loading global solium
+19:13:42.40 loading global solc
+[Error - 7:13:42 PM] (node:86013) V8: /home/jvp/.vscode/extensions/beaugunderson.solidity-extended-3.0.2/node_modules/solc/soljson.js:3 Invalid asm.js: Invalid member of stdlib
+(Use `code --trace-warnings ...` to show where the warning was created)
+19:13:42.65 onDidChangeConfiguration
+19:13:42.65 validateAll
+19:13:42.65 document opened: FundMeTest.t.sol
+19:13:42.65 Skipping solium, .soliumrc.json not found
+19:13:42.65 validating FundMeTest.t.sol, solium done in 0s
+19:13:42.69 validating FundMeTest.t.sol, solc done in 0s
+19:13:42.69 document changed: FundMeTest.t.sol
+19:13:42.69 Skipping solium, .soliumrc.json not found
+19:13:42.69 validating FundMeTest.t.sol, solium done in 0s
+19:13:42.70 validating FundMeTest.t.sol, solc done in 0s

@@ -1,0 +1,6 @@
+2024/11/04-18:56:17.860 14437 Creating DB /home/jvp/.config/chromium/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb since it was missing.
+2024/11/04-18:56:17.864 14437 Reusing MANIFEST /home/jvp/.config/chromium/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/04-18:56:17.889 14436 Level-0 table #5: started
+2024/11/04-18:56:17.890 14436 Level-0 table #5: 1304 bytes OK
+2024/11/04-18:56:17.891 14436 Delete type=0 #3
+2024/11/04-18:56:17.891 14436 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

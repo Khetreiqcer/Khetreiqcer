@@ -1,0 +1,14 @@
+2024-11-04 18:36:31.631 [info] Deleted uninstalled extension from disk antfu.unocss /home/jvp/.vscode-oss/extensions/antfu.unocss-0.63.6-universal
+2024-11-04 18:36:31.632 [info] Deleted uninstalled extension from disk golang.go /home/jvp/.vscode-oss/extensions/golang.go-0.42.1-universal
+2024-11-04 18:36:31.635 [info] Deleted uninstalled extension from disk antfu.browse-lite /home/jvp/.vscode-oss/extensions/antfu.browse-lite-0.3.9-universal
+2024-11-04 18:36:31.636 [info] Deleted uninstalled extension from disk sainnhe.gruvbox-material /home/jvp/.vscode-oss/extensions/sainnhe.gruvbox-material-6.5.2-universal
+2024-11-04 18:36:48.154 [info] Uninstalling extension from the profile: eamodio.gitlens@15.6.2 vscode-userdata:/home/jvp/.vscode-oss/extensions/extensions.json
+2024-11-04 18:36:48.187 [info] Marked extension as uninstalled eamodio.gitlens-15.6.2-universal
+2024-11-04 18:36:48.255 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/jvp/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/jvp/.vscode-oss/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-04 18:36:49.669 [info] Successfully uninstalled extension from the profile eamodio.gitlens@15.6.2 vscode-userdata:/home/jvp/.vscode-oss/extensions/extensions.json

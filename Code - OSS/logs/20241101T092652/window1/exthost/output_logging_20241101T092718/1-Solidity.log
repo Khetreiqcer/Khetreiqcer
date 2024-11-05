@@ -1,0 +1,25 @@
+[Info  - 9:27:19 AM] Solidity by Nomic Foundation Starting ...
+[Info  - 9:27:19 AM] env: production
+[Info  - 9:27:19 AM] Client starting
+[Info  - 9:27:20 AM] Language server starting
+[Info  - 9:27:20 AM]   Release: hardhat-solidity@0.8.6
+[Info  - 9:27:20 AM]   Environment: production
+[Info  - 9:27:20 AM]   Telemetry Enabled: false
+[Info  - 9:27:20 AM]   Telemetry Tracking Id: someValue....
+[Info  - 9:27:20 AM]   Workspace Folders:
+[Info  - 9:27:20 AM]     foundry-simple-storage-f23 (file:///home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23)
+[Info  - 9:27:20 AM] Fetching latest solidity versions
+[Info  - 9:27:20 AM] Language server ready
+[Info  - 9:27:20 AM] [indexing] Found projects:
+[Info  - 9:27:20 AM] [indexing] -  Type: Foundry
+[Info  - 9:27:20 AM] [indexing]    Base path: /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23
+[Info  - 9:27:20 AM] [indexing]    Config file: /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/foundry.toml
+[Info  - 9:27:20 AM] [indexing] Initializing /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/foundry.toml
+[Info  - 9:27:20 AM] [indexing] Done /home/jvp/Desktop/projects/foundry-setup/foundry-simple-storage-f23/foundry.toml
+[Info  - 9:27:20 AM] [indexing] Scanning workspace folders for sol files
+[Info  - 9:27:20 AM] [indexing] Scan complete, 45 sol files found
+[Info  - 9:27:20 AM] [indexing] Analyzing 1 solidity files
+[Info  - 9:28:04 AM] Telemetry disabled
+[Info  - 9:28:04 AM] Telemetry disabled
+[Info  - 9:28:24 AM] Telemetry disabled
+[Info  - 9:28:24 AM] Telemetry disabled

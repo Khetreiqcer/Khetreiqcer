@@ -1,0 +1,6 @@
+[2024-10-31 18:35:55.666] [         11ms] [/home/jvp/Desktop/projects/site2.0/.git] git rev-parse --show-toplevel • FAILED
+
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel
+fatal: this operation must be run in a work tree
+
+

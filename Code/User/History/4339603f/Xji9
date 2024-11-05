@@ -1,0 +1,22 @@
+zz
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   .gitmodules
+#	modified:   foundry.toml
+#	new file:   lib/chainlink-brownie-contracts
+#	deleted:    script/Counter.s.sol
+#	new file:   script/DeployFundMe.s.sol
+#	new file:   script/HelperConfig.s.sol
+#	deleted:    src/Counter.sol
+#	new file:   src/FundMe.sol
+#	new file:   src/PriceConverter.sol
+#	deleted:    test/Counter.t.sol
+#	new file:   test/FundMeTest.t.sol
+#	new file:   test/mocks/MockV3Aggregator.sol
+#
+# Changes not staged for commit:
+#	deleted:    .github/workflows/test.yml
+#

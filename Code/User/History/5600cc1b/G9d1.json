@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "symbols",
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "JetBrainsMono NF",
+    "solidity.telemetry": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+}

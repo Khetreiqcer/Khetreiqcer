@@ -1,0 +1,58 @@
+(VSCode) 2024-11-04 18:54:37.803 [INFO]: No proxy settings found
+(VSCode) 2024-11-04 18:54:38.571 [INFO]: Checking network connection...
+(VSCode) 2024-11-04 18:54:39.102 [INFO]: No Network Issue connecting to https://server.codeium.com
+(VSCode) 2024-11-04 18:54:39.134 [INFO]: Creating manager directory: /tmp/59fc91b8-55c6-4c2c-a9ba-c320c80cca50/codeium/manager
+(VSCode) 2024-11-04 18:54:39.383 [INFO]: Using cached LS with valid crc32: /home/jvp/.vscode/extensions/codeium.codeium-1.22.5/dist/1347d6f7fffdaec404d99b3f0ca3d8854448c787/language_server_linux_x64
+(VSCode) 2024-11-04 18:54:39.391 [INFO]: Language server started
+2024/11/04 18:54:39 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+I1104 18:54:39.466840 82306 main.go:553] [Language Server Manager] Setting GOMAXPROCS to 12
+I1104 18:54:39.466915 82306 main.go:667] [Language Server Manager] Release 1.22.5 (1347d6f7fffdaec404d99b3f0ca3d8854448c787)
+I1104 18:54:39.466934 82306 main.go:746] [Language Server Manager] Starting language server manager with pid 82306
+I1104 18:54:39.467027 82306 main.go:120] [Language Server Manager] Manager acquired its lock file /tmp/59fc91b8-55c6-4c2c-a9ba-c320c80cca50/codeium/manager/locks/manager.lock
+I1104 18:54:39.467514 82306 main.go:259] [Language Server Manager] Waiting for random port file in /tmp/59fc91b8-55c6-4c2c-a9ba-c320c80cca50/codeium/manager/child_random_port_1730757279467125384_6317155503192525306 to be created
+2024/11/04 18:54:39 maxprocs: Leaving GOMAXPROCS=12: CPU quota undefined
+I1104 18:54:39.538095 82318 main.go:553] Setting GOMAXPROCS to 4
+I1104 18:54:39.538220 82318 main.go:740] Starting language server process with pid 82318
+I1104 18:54:39.538241 82318 server.go:183] Language server will attempt to listen on host 127.0.0.1
+I1104 18:54:39.538355 82318 server.go:190] Language server listening on random port at 34917
+I1104 18:54:40.044897 82318 unleash.go:93] Initializing Unleash
+I1104 18:54:40.538058 82318 unleash.go:113] Successfully initialized Unleash
+E1104 18:54:40.546208 82318 client_manager.go:275] Metadata is nil when trying to refresh user JWT
+I1104 18:54:40.546582 82318 server.go:441] Successfully created API server client
+I1104 18:54:40.573437 82318 server.go:456] Successfully initialized tokenizer
+I1104 18:54:40.663335 82318 server.go:613] Local search is enabled, will index local files.
+I1104 18:54:40.663356 82318 server.go:617] Using 3 indexer workers
+I1104 18:54:40.664863 82318 sqlite_faiss_db_client.go:64] Successfully created embedding search database in 1ms
+I1104 18:54:40.665067 82318 indexer.go:213] Using 4 embed workers
+I1104 18:54:40.665092 82318 search_provider.go:274] Successfully created and started indexer
+I1104 18:54:40.665113 82318 search_provider.go:304] Successfully created embedding search provider
+I1104 18:54:40.669452 82318 server.go:703] Successfully created completion provider
+I1104 18:54:40.669479 82318 server.go:752] Child process attempting to acquire lock file /tmp/59fc91b8-55c6-4c2c-a9ba-c320c80cca50/codeium/manager/locks/child_lock_1730757279467170939_674899833770819013
+I1104 18:54:40.669540 82318 server.go:760] Child process acquired lock file /tmp/59fc91b8-55c6-4c2c-a9ba-c320c80cca50/codeium/manager/locks/child_lock_1730757279467170939_674899833770819013
+I1104 18:54:40.673398 82318 server.go:265] LSP listening on random port at 40679
+I1104 18:54:40.683403 82318 web_server.go:259] Chat Web Server listening at ws://127.0.0.1:32963
+40679
+I1104 18:54:40.773694 82306 main.go:295] [Language Server Manager] Found random server port 34917
+I1104 18:54:40.773757 82306 main.go:296] [Language Server Manager] Found random lsp port 40679
+I1104 18:54:40.773799 82306 main.go:303] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:34917
+I1104 18:54:40.785537 82306 main.go:174] [Language Server Manager] Fixing language server port at 34917
+I1104 18:54:40.785553 82306 main.go:355] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:34917
+(VSCode) 2024-11-04 18:54:40.795 [INFO]: Found language server running on port 34917
+I1104 18:54:40.817956 82318 utils.go:227] Analyzing workspace files for /home/jvp/Desktop/projects/foundry-project
+I1104 18:54:40.920588 82318 utils.go:281] Done analyzing workspace files for /home/jvp/Desktop/projects/foundry-project
+(VSCode) 2024-11-04 18:54:40.968 [INFO]: openAllTextDocuments took 2.765178999999989ms
+I1104 18:54:41.346303 82318 lazy_model.go:31] Successfully created embedding store
+(VSCode) 2024-11-04 18:57:01.251 [INFO]: Successfully logged in
+(VSCode) 2024-11-04 18:57:01.268 [INFO]: Successfully logged in
+(VSCode) 2024-11-04 18:57:01.277 [INFO]: Successfully logged in
+(VSCode) 2024-11-04 18:57:01.295 [INFO]: Successfully logged in
+(VSCode) 2024-11-04 18:57:01.304 [INFO]: Successfully logged in
+(VSCode) 2024-11-04 18:57:01.313 [INFO]: Successfully logged in
+(VSCode) 2024-11-04 18:57:01.322 [INFO]: Successfully logged in
+I1104 18:57:08.097234 82318 api.go:377] Handle set draft query: ""
+I1104 18:57:19.218789 82318 api.go:377] Handle set draft query: ""
+I1104 18:57:36.502296 82318 api.go:377] Handle set draft query: ""
+(VSCode) 2024-11-04 19:11:36.265 [INFO]: Disposing language server process
+(VSCode) 2024-11-04 19:11:36.265 [INFO]: Deleting manager directory: /tmp/59fc91b8-55c6-4c2c-a9ba-c320c80cca50/codeium/manager
+(VSCode) 2024-11-04 19:11:36.266 [INFO]: Successfully disposed language server
+W1104 19:11:36.265540 82306 main.go:124] [Language Server Manager] Got signal terminated, shutting down

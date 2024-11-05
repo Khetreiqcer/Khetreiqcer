@@ -1,0 +1,8 @@
+2024-11-04 19:11:39.802 [info] Started local extension host with pid 85604.
+2024-11-04 19:11:42.428 [info] [perf] Render performance baseline is 23ms
+2024-11-04 19:12:19.240 [error] [network] #3: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch
+2024-11-04 19:12:19.241 [error] [network] #5: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch
+2024-11-04 19:12:21.223 [error] [network] #9: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-11-04 19:14:06.680 [info] Started local extension host with pid 86040.
+2024-11-04 19:14:28.189 [error] [network] #29: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-11-04 20:25:01.355 [warning] [perf] Renderer reported VERY LONG TASK (645ms), starting profiling session 'efacaf9f-918c-4cad-ab1e-c485cf809f3b'

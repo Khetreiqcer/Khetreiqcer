@@ -1,0 +1,130 @@
+2024-11-03 14:26:04.989 [warning] Dir "/home/jvp/Desktop/projects/foundry-project/.pixi/envs" is not watchable (directory does not exist)
+2024-11-03 14:26:04.989 [error] Unable to check if shell integration is active [Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at a.onDidWriteTerminalData (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:46120)
+	at new v (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:909813)
+	at ge (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1759387)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762751
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762779
+	at Se (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762846)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762145
+	at Array.reduce (<anonymous>)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762117
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762399
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762779
+	at Se (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762846)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790210
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790231
+	at e._get (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789244)
+	at e._getButThrowIfAsync (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789304)
+	at e.get (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1785013)
+	at e.dynamicValue (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1774746)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760923
+	at Ee (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1761179)
+	at Se (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762895)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760474
+	at Array.map (<anonymous>)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760445
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762145
+	at Array.reduce (<anonymous>)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762117
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762399
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762779
+	at Se (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1762846)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763326
+	at we (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763267)
+	at Pe (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1763301)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1760540
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790210
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1790231
+	at e._get (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789244)
+	at e._getButThrowIfAsync (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1789304)
+	at e.get (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:1785013)
+	at a.get (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:525791)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:441383
+	at async t.activateComponents (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:439663)
+	at async /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2717119
+	at async e (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2716651)
+	at async B0.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:4447)
+	at async B0.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:4410)
+	at async B0.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:114:3866)]
+2024-11-03 14:26:04.989 [info] Starting Environment refresh
+2024-11-03 14:26:04.989 [info] Starting Environment refresh
+2024-11-03 14:26:04.989 [info] > hatch env show --json
+2024-11-03 14:26:04.989 [info] cwd: .
+2024-11-03 14:26:04.991 [info] Environments refresh finished (event): 45 milliseconds
+2024-11-03 14:26:04.991 [info] Environments refresh paths discovered: 45 milliseconds
+2024-11-03 14:26:04.991 [info] Environments refresh finished (event): 44 milliseconds
+2024-11-03 14:26:04.991 [info] Environments refresh paths discovered: 44 milliseconds
+2024-11-03 14:26:04.992 [info] Environment refresh took 46 milliseconds
+2024-11-03 14:26:04.992 [info] Environment refresh took 45 milliseconds
+2024-11-03 14:26:05.002 [info] > pyenv which python
+2024-11-03 14:26:05.002 [info] cwd: .
+2024-11-03 14:26:05.026 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910]',
+  version: {
+    raw: '3.12.7',
+    major: 3,
+    minor: 12,
+    patch: 7,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.7 64-bit',
+  detailedDisplayName: 'Python 3.12.7 64-bit',
+  type: undefined
+} /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/installed_check.py /home/jvp/Desktop/projects/foundry-project/lib/chainlink-brownie-contracts/contracts/scripts/requirements.txt
+2024-11-03 14:26:05.026 [info] > /bin/python ~/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/python_files/installed_check.py ./lib/chainlink-brownie-contracts/contracts/scripts/requirements.txt
+2024-11-03 14:26:05.027 [info] Python interpreter path: /bin/python
+2024-11-03 14:26:05.038 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 93ms, has a falsy return value, Arg 1: <Uri:/home/jvp/Desktop/projects/foundry-project/lib/chainlink-brownie-contracts/contracts/scripts/requirements.txt>, Arg 2: {"started":1730654764869}, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+  	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+  	at C.activate (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+  	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+  	at Array.map (<anonymous>)
+  	at v.activateWorkspace (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)]
+]
+2024-11-03 14:26:05.038 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+	at C.activate (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)]
+2024-11-03 14:26:05.038 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at R (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:16578)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:156:39418)
+	at C.activate (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:945676)
+	at /home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/jvp/.vscode-oss/extensions/ms-python.python-2024.18.0-universal/out/client/extension.js:2:2447)]
+2024-11-03 14:26:05.639 [info] Starting Jedi language server for foundry-project.

@@ -1,0 +1,15 @@
+█ ChatsController:constructor init:
+█ telemetry-v2 recordEvent: cody.extension/installed:
+█ telemetry-v2 recordEvent: cody.signInNotification/shown:
+█ telemetry-v2 recordEvent: cody.auth/disconnected:
+█ Autocomplete:createProvider You are not signed in.:
+█ ModelsService User model preferences changed: {"defaults":{},"selected":{}}
+█ GraphQLTelemetryExporter evaluated export mode:: 5.2.5+
+█ GraphQLTelemetryExporter evaluated export mode:: 5.2.5+
+█ GraphQLTelemetryExporter evaluated export mode:: 5.2.5+
+█ GraphQLTelemetryExporter Error exporting telemetry events:: Error: Variable "value" has invalid value null.
+Expected type "JSONValue!", found null.
+█ UpstreamHealth Ping took 300ms (Gateway: 354ms):
+█ ChatController updateViewConfig:
+█ ChatController updateViewConfig:
+█ telemetry-v2 recordEvent: cody.characters/flush:
