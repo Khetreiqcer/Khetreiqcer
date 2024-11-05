@@ -1,3 +1,0 @@
-GitLens v15.6.2 activating in Code - OSS (1.95.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (someValue.machineId|someValue.sessionId)
-To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette[2024-11-04 21:35:36.107] getLocalWorkspaceData
-EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/jvp/.gitkraken/workspaces/workspaces.json'
