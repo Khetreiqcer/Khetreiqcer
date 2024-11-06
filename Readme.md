@@ -1,4 +1,4 @@
-# João Vitor Possenti - Full-Stack Developer in Training
+# João Vitor Possenti - Full-Stack Developer
 
 Hello! I'm João, an Information Systems student with a strong interest in modern web technologies, API development, and 3D visuals for the web. I enjoy turning complex problems into simple, interactive applications.
 
@@ -18,13 +18,13 @@ Hello! I'm João, an Information Systems student with a strong interest in moder
 ## 🧩 What I’m Learning
 
 - **Backend Frameworks**: NestJS
-- **Blockchain Development**: Solidity (looking for small projects to apply this!)
+- **Blockchain Development**: Solidity 
 
 ---
 
 ## 📬 Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/joaovitorpossenti](https://www.linkedin.com/in/joaovitorpossenti/)
-- **Email**: [joaovitor@example.com](mailto:joaovitor@example.com)
+- **LinkedIn**: [linkedin.com/in/joaovitorpossenti](www.linkedin.com/in/joão-possenti)
+- **Email**: [joaovitor@example.com](mailto:jvpossentics@gmail.com)
 
 Looking forward to connecting!
