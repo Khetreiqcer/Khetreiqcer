@@ -14,12 +14,6 @@ Hello! I'm João, an Information Systems student with a strong interest in moder
 
 ---
 
-## 📝 Current Projects
-
-- **Personal Portfolio**: A minimalistic portfolio with animations and interactive visuals
-- **Meditation App**: Web app with relaxation tools and meditation tracking
-
----
 
 ## 🧩 What I’m Learning
 
