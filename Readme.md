@@ -1,43 +1,36 @@
-# Hi, I'm João Vitor Possenti! 👋
+# João Vitor Possenti - Full-Stack Developer in Training
 
-I'm a **Information Systems** student at UFSM, expected to graduate in 2027. I'm passionate about web development and constantly challenging myself with new projects and technologies. My experience includes internships focused on scalable and efficient applications, as well as a scientific scholarship that deepened my understanding of research and development.
-
----
-
-## 🚀 Skills
-
-- **Web Development**: JavaScript, Node.js, React.js, REST APIs
-- **Databases**: MongoDB, SQL, NoSQL
-- **Frontend**: React, Tailwind CSS, Next.js
-- **Backend**: Node.js, Express, NestJS (currently learning)
-- **Other Technologies**: Three.js, Framer Motion, Chakra UI
-- **DevOps & Development Environment**: Linux, Version Control with Git, Server Configuration
+Hello! I'm João, an Information Systems student with a strong interest in modern web technologies, API development, and 3D visuals for the web. I enjoy turning complex problems into simple, interactive applications.
 
 ---
 
-## 📈 Highlighted Projects
+## 🛠️ Tech Stack
 
-- **[Meditation and Relaxation App](https://github.com/Khetreiqcer/Medit)**: A modular app with meditation sessions, relaxing sounds, and meditation journal functionality.
-- **[Personal Portfolio Site](https://github.com/Khetreiqcer/site2.0)**: A minimalistic portfolio site built with Next.js, TypeScript, and Framer Motion animations.
-- **Other Projects**: Projects and studies involving Solidity, Angular, and more.
-
----
-
-## 🎯 Professional Goals
-
-I'm looking to collaborate in a dynamic environment where I can contribute to the development of robust and scalable applications. I’m driven by learning new technologies and methodologies to create innovative solutions.
+- **Frontend:** React, TypeScript, Next.js, Chakra UI, Tailwind CSS
+- **Backend:** Node.js, Express, REST API development
+- **Databases:** MongoDB, SQL (PostgreSQL, MySQL)
+- **Dev Tools:** Linux, Git, Docker, Framer Motion
+- **Other Interests:** Solidity, Three.js
 
 ---
 
-## 📫 Connect with Me
+## 📝 Current Projects
 
-- **Email**: [jvpossentics@example.com](mailto:jvpossentics@gmail.com)
-- **LinkedIn**: [linkedin.com/in/joaovitorpossenti](https://www.linkedin.com/in/joaopossenti/)
-- **Portfolio**: [joaovitor.dev](https://site2-0-three.vercel.app/)
-
----
-
-Thank you for visiting my profile! Feel free to explore my projects and connect!
+- **Personal Portfolio**: A minimalistic portfolio with animations and interactive visuals
+- **Meditation App**: Web app with relaxation tools and meditation tracking
 
 ---
 
+## 🧩 What I’m Learning
+
+- **Backend Frameworks**: NestJS
+- **Blockchain Development**: Solidity (looking for small projects to apply this!)
+
+---
+
+## 📬 Get in Touch
+
+- **LinkedIn**: [linkedin.com/in/joaovitorpossenti](https://www.linkedin.com/in/joaovitorpossenti/)
+- **Email**: [joaovitor@example.com](mailto:joaovitor@example.com)
+
+Looking forward to connecting!
