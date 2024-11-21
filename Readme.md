@@ -1,30 +1,30 @@
-# João Vitor Possenti - Full-Stack Developer
+# 🚀 João Vitor Possenti - Full-Stack Developer
 
-Hello! I'm João, an Information Systems student with a strong interest in modern web technologies, API development, and 3D visuals for the web. I enjoy turning complex problems into simple, interactive applications.
+👋 Hi there! Welcome to my GitHub profile. I'm João, an Information Systems student with a passion for modern web technologies, API development, and Web3. I thrive on building robust, scalable applications and experimenting with cutting-edge tools like Solidity and Foundry.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, TypeScript, Next.js, Chakra UI, Tailwind CSS
-- **Backend:** Node.js, Express, REST API development
-- **Databases:** MongoDB, SQL (PostgreSQL, MySQL)
-- **Dev Tools:** Linux, Git, Docker, Framer Motion
-- **Other Interests:** Solidity, Three.js
+- **🌐 Frontend:** React, TypeScript, Next.js, Chakra UI, Tailwind CSS  
+- **⚙️ Backend:** Node.js, Express, REST API development  
+- **🗄️ Databases:** MongoDB, PostgreSQL, MySQL  
+- **🛠️ Dev Tools:** Linux, Git, Docker, Framer Motion  
+- **🔗 Other Interests:** Solidity, Three.js  
 
 ---
 
-
 ## 🧩 What I’m Learning
 
-- **Backend Frameworks**: NestJS
-- **Blockchain Development**: Solidity 
+- **⚡ Backend Frameworks:** Exploring NestJS for scalable server-side applications.  
+- **🔑 Blockchain Development:** Diving into Solidity to build decentralized applications.  
 
 ---
 
 ## 📬 Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/joaovitorpossenti](www.linkedin.com/in/joão-possenti)
-- **Email**: [joaovitor@example.com](mailto:jvpossentics@gmail.com)
+- **💼 LinkedIn**: [linkedin.com/in/joaovitorpossenti](https://linkedin.com/in/joaovitorpossenti)  
+- **📧 Email**: [jvpossentics@gmail.com](mailto:jvpossentics@gmail.com)  
 
-Looking forward to connecting!
+Let's connect and build something amazing!
+
