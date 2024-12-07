@@ -1,30 +1,67 @@
-# 🚀 João Vitor Possenti - Full-Stack Developer
+# WELCOME TO THE TERMINAL OF JOÃO VITOR POSSENTI
+-------------------------------------------------
+USER: João Vitor Possenti
+ROLE: Software Developer in Training
+STATUS: Building applications and exploring the blockchain.
+-------------------------------------------------
 
-👋 Hi there! Welcome to my GitHub profile. I'm João, an Information Systems student with a passion for modern web technologies, API development, and Web3. I thrive on building robust, scalable applications and experimenting with cutting-edge tools like Solidity and Foundry.
+> about
 
----
+[ ABOUT ME ]
+-------------
+- João Vitor Possenti  
+- Student @ UFSM  
+- Focused on Web Development, Rust, and Blockchain Technology.  
+- Building scalable apps, exploring blockchain, and learning Rust.
 
-## 🛠️ Tech Stack
+> skills
 
-- **🌐 Frontend:** React, TypeScript, Next.js, Chakra UI, Tailwind CSS  
-- **⚙️ Backend:** Node.js, Express, REST API development  
-- **🗄️ Databases:** MongoDB, PostgreSQL, MySQL  
-- **🛠️ Dev Tools:** Linux, Git, Docker, Framer Motion  
-- **🔗 Other Interests:** Solidity, Three.js  
+[ SKILLSET ]
+-------------
+LANGUAGES:
+  - JavaScript / TypeScript
+  - Python
+  - Solidity
+  - Rust 🦀
 
----
+FRAMEWORKS & TOOLS:
+  - React, Next.js
+  - Tailwind CSS, Framer Motion
+  - ethers.js, web3.js
+  - Foundry, Hardhat, Truffle
 
-## 🧩 What I’m Learning
+DATABASES:
+  - MongoDB
+  - SQL / NoSQL
 
-- **⚡ Backend Frameworks:** Exploring NestJS for scalable server-side applications.  
-- **🔑 Blockchain Development:** Diving into Solidity to build decentralized applications.  
+PLATFORMS:
+  - Linux 🐧
+  - VS Code, Vim
 
----
+> projects
 
-## 📬 Get in Touch
+[ PROJECTS ]
+-------------
 
-- **💼 LinkedIn**: [linkedin.com/in/joaovitorpossenti](https://linkedin.com/in/joaovitorpossenti)  
-- **📧 Email**: [jvpossentics@gmail.com](mailto:jvpossentics@gmail.com)  
+1. Blockchain Playground  
+   - Experimenting with decentralized applications and Solidity.
 
-Let's connect and build something amazing!
+2. Rust Experiments  
+   - Performance-driven systems with blockchain integrations.
 
+3. Personal Website  
+   - A minimalist showcase of skills and projects.
+
+> Find more at: https://github.com/Khetreiqcer?tab=repositories
+
+> contact
+
+[ CONTACT ME ]
+---------------
+- Email:    jvpossentics@gmail.com
+- LinkedIn: www.linkedin.com/in/joão-possenti
+  
+> exit
+
+Shutting down João Vitor's Readme...
+Connection closed.
