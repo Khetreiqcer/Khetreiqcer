@@ -1,4 +1,4 @@
-# WELCOME TO THE TERMINAL OF JOÃO VITOR POSSENTI
+# WELCOME TO README OF JOÃO VITOR POSSENTI
 -------------------------------------------------
 USER: João Vitor Possenti
 ROLE: Software Developer in Training
