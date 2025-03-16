@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73B&multiline=true&width=450&height=110&lines=Hi%2C+my+name+is+Jo%C3%A3o+Vitor;I'm+a+Software+Developer;I+work+with+back-end+technologies;Always+learning+and+improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73B&multiline=true&width=450&height=110&lines=Hi%2C+my+name+is+Jo%C3%A3o+Vitor;)](https://git.io/typing-svg)
